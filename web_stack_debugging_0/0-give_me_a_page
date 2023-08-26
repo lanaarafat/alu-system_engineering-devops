@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# a script for restarting http services
+sudo service apache2 restart
